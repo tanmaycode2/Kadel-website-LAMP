@@ -1,7 +1,7 @@
 # Configuring Wordpress for LAMP stack.
 
 Prerequisites
-1) Access to an ubuntu server
+1) Access to an ubuntu server with a sudo user
 2) Install LAMP stack 
 3) Secure your site with SSL.
 
